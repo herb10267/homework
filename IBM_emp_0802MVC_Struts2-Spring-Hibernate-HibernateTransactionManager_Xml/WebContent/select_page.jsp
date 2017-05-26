@@ -14,7 +14,7 @@
 		<tr bgcolor='#CCCCFF' align='center' valign='middle' height='20'>
 			<td><h3>IBM Emp: Home</h3>	<font color=red>( Struts2-Spring-Hibernate  MVC )</font></td></tr></table>
 
-	<p>This is the Home page for IBM Emp: Home</p>
+	<p>This is the Home page for IBM Emp: Home tortoiseTest</p>
 
 	<h3>資料查詢:</h3>
 	<%-- 錯誤表列 --%>
